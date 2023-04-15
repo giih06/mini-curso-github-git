@@ -1,4 +1,4 @@
-# repositorio-minicurso
+# <h1> Mini-curso de Git e Github <h1/>
 
 - Para clonar: Git Bush -> comando: git clone ( http link clone);
 - cd <nome da pasta + tab>;
@@ -19,3 +19,7 @@
 - fetch, O fatch é utilizado para atualizar o repositório local com o repositório compartilhado;
 - pull, O pull é utilizado após o fetch, ele serve para atualizar os os arquivos que sofrem mudanças naquela brench;
 - push --set-upstream origin <nome da branch>, Esse comando mais complexo serve para quando uma branch recém criada não está no repositório compartilhado, ao executar o comando, a branch passará a ser reconhecida remotamente.
+
+<h1> O que é? <h1/>
+<h2> Projeto de Software <h2/>
+<p> Conjunto de arquivos de código de vários desenvolvedores que compõem a produção de um software final. <p/>
