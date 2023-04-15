@@ -1,17 +1,17 @@
 # repositorio-minicurso
 
-- git <comando>;
-- para clonar: Git Bush -> comando: git clone ( http link clone);
+- Para clonar: Git Bush -> comando: git clone ( http link clone);
 - cd <nome da pasta + tab>;
 - (main) seria a brant principal do repositorio;
-- COMANDOS
+  
+- COMANDOS GERAIS
+- Para fazer comandos gerais: git <comando>
 - git status: vai te mostrar todos os arquivos alterados;
 - git add <arquivo>: quais os arquivos você quer que entre no repositório;
 - touch <nome do arquivo>;
 - git commit -m ( os comandos que tem - significa que quer que faça uma mudança específica;
 - git commit -m "Adicionando arquivos de ";
 
-- MAIN: é o projeto cru.
 - BRANCHES: são como ramificações do projeto, onde cada pessoa pode trabalhar em sua prória versão do código sem afetar o trabalho dos outros.
 - Cheatsheet das branches. Lista de comandos para branches no GIT e CLI.
 - branch <nome da branch>, o branch é um comando que proporciona a criação de uma brench nova, tente padronizar o nome das branches no projeto.
