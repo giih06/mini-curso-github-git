@@ -1,2 +1,2 @@
-# mini-curso-github-git
-TEste
+# repositorio-minicurso
+teste
