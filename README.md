@@ -1,4 +1,4 @@
-# <h1> Mini-curso de Git e Github <h1/>
+# Mini-curso de Git e Github
 
 - Para clonar: Git Bush -> comando: git clone ( http link clone);
 - cd <nome da pasta + tab>;
