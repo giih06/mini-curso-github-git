@@ -19,6 +19,8 @@
 - fetch, O fatch é utilizado para atualizar o repositório local com o repositório compartilhado;
 - pull, O pull é utilizado após o fetch, ele serve para atualizar os os arquivos que sofrem mudanças naquela brench;
 - push --set-upstream origin <nome da branch>, Esse comando mais complexo serve para quando uma branch recém criada não está no repositório compartilhado, ao executar o comando, a branch passará a ser reconhecida remotamente.
+- Juntando branches
+- Pull request, São solicitações de incorporação de uma branch em outra. O pull request é uma forma de manter o controle sobre o que entra e o que não entra no projeto. Para fazer um, basta criá-los na plataforma de GIT escolhida, no caso, usaremos o GITHUB para a demonstração.
 
   <h1> O que é? </h1>
   <h2> Projeto de Software </h2>
@@ -38,3 +40,7 @@
   <p> Agora pegou o repositório e trouxe para sua máquina </p>
   
   <h1> Comandos para commit </h1>
+  <p> 
+    <strong> Os 4 passos para ser enviado para o Github</strong> 
+  </p>
+  
