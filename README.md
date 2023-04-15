@@ -68,6 +68,9 @@
   <br>
   <p><img align="left" height="80" width="600" src="https://dune-soprano-18f.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Feb6236e9-9f48-4b5b-afe4-9e027aa31026%2FUntitled.png?id=34ea8a2c-a113-4d3d-be6e-bb868e2f7afd&table=block&spaceId=d742f9fe-0c3e-4980-888f-b424ff5cf418&width=820&userId=&cache=v2"></p>
   <p>touch faz a criação de um novo arquivo naquela pasta</p>
+    <br>
+    <strong> Referência: </strong>
+    <p>https://docs.google.com/presentation/d/1NLpubE07RA0fGjcaICey0Bf12P_0VxTJImqTcAUDqQA/mobilepresent?slide=id.g213be7910ba_0_0</p>
   
   
   
