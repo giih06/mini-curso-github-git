@@ -43,5 +43,32 @@
   <strong> Os 4 passos para ser enviado para o Github</strong> 
   <strong> Git Status </strong>
   <p> Sempre verifique o que foi mudado antes de commitar, isso impede que coisas indesejáveis vão para o repositório. Tudo o que está em **vermelho** é algo novo que fizemos e que não está no repositório ainda mas está na pasta</p>
+  <strong> Git add </strong>
+  <p> Podemos escolher quais arquivos vão ou não ao nosso repositório. Podemos colocar por nome de arquivo ou por um ponto   que pegara todos os arquivos que foram alterados.</p>
+  <strong> commit -m “mensagem” </strong>
+  <p> Serve para nomear o commit e sabermos qual alteração foi feita </p>
+  
+  <h1> Branches </h1>
+  <p> Usamos para que nossa modificação não altere a do colega. São como extensões do tronco principais que tem seu trabalho próprio. </p>
+  <strong> Como criar uma Branch  </strong>
+  <p>1. Vá para o GitHub  e git clone </p>
+  <p>2. crie a branch com git branch”nome da branch </p>
+  <p>3. Para entrar na branch git checkout “nome da branch” </p>
+  <p>4. "touch" para criar arquivo na branch </p>
+  <p>5. git add </p>
+  <p>6. git commit -m</p>
+  <p>7. git push --set-upstream origin </p>
+  <br>
+  <br>
+  <strong> OBS: </strong>
+  <br>
+  <img align="left"  height="80" width="600" src="https://dune-soprano-18f.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F7f5de5cc-df04-480d-8e30-85834f37e3d0%2FUntitled.png?id=1e88ae50-a555-4084-ba17-748505801502&table=block&spaceId=d742f9fe-0c3e-4980-888f-b424ff5cf418&width=820&userId=&cache=v2">
+  - O main significa a pasta principal do seu repositório
+  - cd + tab para navegar entre as pastas
+  <br>
+  <img align="left" height="80" width="600" src="https://dune-soprano-18f.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Feb6236e9-9f48-4b5b-afe4-9e027aa31026%2FUntitled.png?id=34ea8a2c-a113-4d3d-be6e-bb868e2f7afd&table=block&spaceId=d742f9fe-0c3e-4980-888f-b424ff5cf418&width=820&userId=&cache=v2">
+  - touch faz a criação de um novo arquivo naquela pasta
+  
+  
    
   
