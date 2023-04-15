@@ -23,24 +23,25 @@
 - Pull request, São solicitações de incorporação de uma branch em outra. O pull request é uma forma de manter o controle sobre o que entra e o que não entra no projeto. Para fazer um, basta criá-los na plataforma de GIT escolhida, no caso, usaremos o GITHUB para a demonstração.
 
   <h1> O que é? </h1>
-  <h2> Projeto de Software </h2>
+  <strong> Projeto de Software: </strong>
   <p> Conjunto de arquivos de código de vários desenvolvedores que compõem a produção de um software final. </p>
-  <h2> O que é uma CLI? </h2>
+  <strong>O que é uma CLI?</strong>
   <p> É uma sigla para “Command Line Interface”, as CLI’s são utilizadas por diversas aplicações e funcionam de forma facilitar o envio de comandos aos softwares através do terminal. </p>
-  <h2> Repositório </h2>
+  <strong>Repositório:</strong>
   <p> É onde os arquivos do seu projeto são armazenados juntamente com todas as versões anteriores.É legal quando estiver em equipe criar como organização pois ai todos terão aquele repositório como seu </p>
   
   <h1> Git </h1>
-  <h2> Commit </h2>
+  <strong> Commit:</strong>
   <p> É uma fotografia do seu código em um determinado momento no tempo quando fazemos um commit estamos salvando uma versão do nosso código </p>
-  <h2> Clonar Repositório </h2>
+  <p><strong>Clonar Repositório</strong></p>
   <p> Ele faz uma cópia do próprio projeto que você quer trabalhar e traz tudo para sua máquina. </p>
   <p> 1. Copiar o link no Code -> HTTPS.</p>
   <p> 2. git clone <url> </p>
   <p> Agora pegou o repositório e trouxe para sua máquina </p>
   
   <h1> Comandos para commit </h1>
-  <p> 
-    <strong> Os 4 passos para ser enviado para o Github</strong> 
-  </p>
+  <strong> Os 4 passos para ser enviado para o Github</strong> 
+  <strong> Git Status </strong>
+  <p> Sempre verifique o que foi mudado antes de commitar, isso impede que coisas indesejáveis vão para o repositório. Tudo o que está em **vermelho** é algo novo que fizemos e que não está no repositório ainda mas está na pasta</p>
+   
   
