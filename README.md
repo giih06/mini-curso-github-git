@@ -46,6 +46,9 @@
       <p>Esse comando mais complexo serve para quando uma branch recém criada não está no repositório compartilhado, ao executar o comando, a branch passará a ser reconhecida remotamente.</p>
       <strong>Pull request<strong>
         <p>São solicitações de incorporação de uma branch em outra. O pull request é uma forma de manter o controle sobre o que entra e o que não entra no projeto. Para fazer um, basta criá-los na plataforma de GIT escolhida, no caso, usaremos o GITHUB para a demonstração.</p>
+  
+  <h1> Como voltar em uma versão de commit </h1>
+  <p> git checkout (código do commit)
   <br>
   <br>
   <strong> OBS: </strong>
