@@ -48,7 +48,9 @@
         <p>São solicitações de incorporação de uma branch em outra. O pull request é uma forma de manter o controle sobre o que entra e o que não entra no projeto. Para fazer um, basta criá-los na plataforma de GIT escolhida, no caso, usaremos o GITHUB para a demonstração.</p>
   
   <h1> Como voltar em uma versão de commit </h1>
-  <p> git checkout (código do commit)
+  <p> git log (copie o código do commit)
+  <p> git checkout (cole o código do commit)
+   <p> para voltar para o estado original = git checkout main
   <br>
   <br>
   <strong> OBS: </strong>
