@@ -33,7 +33,7 @@
       <p>2. git branch <nome da branch> , o branch é um comando que proporciona a criação de uma brench nova, tente padronizar o nome das branches no projeto.</p>
       <p>3. Para entrar na branch git checkout “nome da branch” </p>
       <p>4. touch "nome do arquivo" para criar arquivo na branch </p>
-      <p>5. git add "arquivo" </p>
+      <p>5. git add "arquivo" ou git add . ( caso queira tirar o arquivo da area stage, basta digitar git reset) </p>
       <p>6. git commit -m "mensagem da commit"</p>
       <p>7. git push --set-upstream origin</p>
     <strong> Como navegar entre branches no Git </strong>
